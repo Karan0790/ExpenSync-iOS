@@ -29,6 +29,11 @@
 			path = ClassTask;
 			sourceTree = "<group>";
 		};
+		3F61E7C82EB8732100A8B2EA /* Japit's Branch */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Japit's Branch";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 			children = (
 				0E8FB4502EB869A300168C17 /* ClassTask */,
 				0E8FB44F2EB869A300168C17 /* Products */,
+				3F61E7C82EB8732100A8B2EA /* Japit's Branch */,
 			);
 			sourceTree = "<group>";
 		};
@@ -75,6 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				0E8FB4502EB869A300168C17 /* ClassTask */,
+				3F61E7C82EB8732100A8B2EA /* Japit's Branch */,
 			);
 			name = ClassTask;
 			packageProductDependencies = (
