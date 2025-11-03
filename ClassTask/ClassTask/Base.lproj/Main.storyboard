@@ -35,10 +35,10 @@
             </objects>
             <point key="canvasLocation" x="800" y="-79"/>
         </scene>
-        <!--Storyboard Reference-->
+        <!--JapitsStoryboard-->
         <scene sceneID="Q0q-FR-F93">
             <objects>
-                <viewControllerPlaceholder storyboardIdentifier="JapitsStoryboard" id="HRM-7s-so5" sceneMemberID="viewController">
+                <viewControllerPlaceholder storyboardIdentifier="JapitsStoryboard" storyboardName="JapitsStoryboard" id="HRM-7s-so5" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Item" id="VO4-3C-eDF"/>
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0Ao-D4-LiW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
